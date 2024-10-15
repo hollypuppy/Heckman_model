@@ -24,7 +24,7 @@ We can jointly model the two stages:
 The log-likelihood is
 
 <div align="center">
-<img width="521" alt="image" src="https://github.com/user-attachments/assets/9af340b7-cfed-461c-a6f0-ebce7baa9d60">
+<img width="501" alt="image" src="https://github.com/user-attachments/assets/763ab235-be9a-41fb-b167-ba31cdd7d8a8">
 </div> 
 
 where
