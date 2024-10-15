@@ -1,4 +1,4 @@
-# Bayesian Heckman Selection Model Using Data Augmentation
+# Bayesian Heckman Selection Model
 
 In many real-world scenarios, data are not simply missing at random; instead, the absence of certain observations can be systematically linked to specific characteristics of the dataset. Take, for example, a situation where a company is collecting customer feedback through a survey. 
 
@@ -21,7 +21,7 @@ In the model, $(u_i,\epsilon_i)$ has a bivaraite normal distribution:  <img widt
 We can jointly model the two stages:
 <img width="279" alt="image" src="https://github.com/user-attachments/assets/1a8d94ed-5725-41a3-a5ee-e483ae6c1330">
 
-The log-likelihood equation can be expressed in a data augmentation style
+The log-likelihood is
 
 <div align="center">
 <img width="521" alt="image" src="https://github.com/user-attachments/assets/9af340b7-cfed-461c-a6f0-ebce7baa9d60">
