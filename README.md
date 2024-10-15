@@ -16,7 +16,7 @@ In many real-world scenarios, data are not simply missing at random; instead, th
   </div> 
   This equation models the rating of the product. In the data, we only observe $Y_i$ if $D_i=1$, otherwise $Y_i$ is missing.
 
-In the model, $(\u_i,\epsilon_i)$ has a bivaraite normal distribution:  <img width="229" alt="image" src="https://github.com/user-attachments/assets/e93355a5-a90c-411c-84ad-f2df5d5ae12c">
+In the model, $(u_i,\epsilon_i)$ has a bivaraite normal distribution:  <img width="229" alt="image" src="https://github.com/user-attachments/assets/e93355a5-a90c-411c-84ad-f2df5d5ae12c">
 
 We can jointly model the two stages:
 <img width="279" alt="image" src="https://github.com/user-attachments/assets/1a8d94ed-5725-41a3-a5ee-e483ae6c1330">
